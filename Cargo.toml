@@ -1,6 +1,6 @@
 [package]
 name = "mathl"
-version = "0.0.1b"
+version = "0.0.2"
 authors = ["Samantha Enders <ladysamantha@protonmail.com>"]
 description = "A math library for Rust. The goal is to use this with rhai"
 license = "MIT"
