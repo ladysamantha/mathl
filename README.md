@@ -1,7 +1,7 @@
 # mathl
 ## Mathematical algorithms library for Rust
 
-```rust
+```toml
 [dependencies]
 mathl = "*"
 ```
