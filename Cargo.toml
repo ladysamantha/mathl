@@ -4,5 +4,8 @@ version = "0.0.1"
 authors = ["Samantha Enders <ladysamantha@protonmail.com>"]
 description = "A math library for Rust. The goal is to use this with rhai"
 license = "MIT"
+readme = "README.md"
+repository = "https://github.com/ladysamantha/mathl.git"
+homepage = "https://github.com/ladysamantha/mathl"
 
 [dependencies]
