@@ -1,0 +1,6 @@
+use linear_algebra;
+
+#[test]
+pub fn it_works() {
+    assert_eq!(2 + 2, 4);
+}
